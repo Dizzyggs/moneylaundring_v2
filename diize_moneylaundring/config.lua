@@ -28,7 +28,7 @@ Config.DirtyCash = " dirty cash"
 Config.NotEnoughDirtyCash = "You dont have enough dirty cash to wash.." --Notification for not having dirty cash enough.
 Config.PutCashInLabel = "Putting in the dirty cash.." --Label for the put in money progressbar?
 Config.CollectingLabel = "Collecting the clean cash.." --Label for the collecting progressbar?
-Config.NotEnough = "You dont that much dirty cash!"
+Config.NotEnough = "You dont have that much dirty cash!"
 Config.DrawText = "~w~[~g~E~w~] Cash Laundry" -- What should the 3d text say once a player is close enough??
 ------------------------------------------------------------------------------
 ------------------------------------------------------------------------------
