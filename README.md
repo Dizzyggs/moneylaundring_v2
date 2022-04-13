@@ -1,6 +1,7 @@
 # moneylaundring_v2
 ---------------------------------------
 -------DIIZE MONEYLAUNDRING-------------
+------THIS IS A SCRIPT FOR GTA FIVEM----
 ---------------------------------------
 
 
